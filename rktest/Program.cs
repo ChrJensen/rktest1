@@ -6,7 +6,7 @@ namespace rktest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Denmark!");
+            Console.WriteLine("Hello Copenhagen!");
         }
     }
 }
