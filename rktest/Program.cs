@@ -4,9 +4,6 @@ namespace rktest
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello Copenhagen!");
-        }
+        static void Main(string[] args) => Console.WriteLine("Hello Copenhagen!");
     }
 }
